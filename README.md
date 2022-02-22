@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zetmanutentez
-- 👀 I’m interested in Phyton + Batch + PowerShell + RPA
+- 👀 I’m interested in Java + Phyton + Batch + PowerShell + RPA
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
